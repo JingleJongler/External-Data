@@ -2,9 +2,7 @@
   { "name": "bee.txt", "url": "https://jinglejongler.github.io/External-Data/bee.txt" },
   { "name": "Diagram.png", "url": "https://jinglejongler.github.io/External-Data/Diagram.png" },
   { "name": "skyrim.png", "url": "https://jinglejongler.github.io/External-Data/skyrim.png" },
-
-  { "name": "cheese.pdf", "url": "https://jinglejongler.github.io/External-Data/cheese.pdf" },
-
-  { "name": "CheeseMeme.jpg", "url": "https://jinglejongler.github.io/External-Data/CheeseMeme.jpg" }
+  { "name": "loss.pdf", "url": "https://jinglejongler.github.io/External-Data/loss.pdf" },
+  { "name": "loss.jpg", "url": "https://jinglejongler.github.io/External-Data/loss.jpg" }
 
 ]
